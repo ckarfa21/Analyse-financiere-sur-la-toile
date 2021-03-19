@@ -11,3 +11,4 @@ Pour avoir un visu sur le dataviz:
 -Lancer streamlit avec une commande.
 -streamlit run app3.py,(app3.py est notre nom de script).
 streamlit demande a la premiere utilisation de renseigner son adresse e-mail.
+![image](https://user-images.githubusercontent.com/73162985/111766525-efdab000-88a5-11eb-9796-d33afa95f4f9.png)
