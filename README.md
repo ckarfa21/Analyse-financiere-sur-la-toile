@@ -1,4 +1,4 @@
-# Analyse-financi-re-sur-la-toile
+# Analyse-financiere-sur-la-toile
 Crée un container docker avec un port .
 ouvrir Workbench:
 clique droit sur mysql connection pour crée une nouvelle collection
